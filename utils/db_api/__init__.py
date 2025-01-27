@@ -1,0 +1,1 @@
+from .malumotlar_bazasi import Database
